@@ -1,4 +1,4 @@
-# Excersice 1: Printing Practice.
+# Exercise 1: Printing Practice.
 
 print("1. Mix 500g of Flour, 10g Yeast and 300ml Water in a bowl.")
 print("2. Knead the dough for 10 minutes.")
