@@ -2,6 +2,8 @@
 
 [Udemy - 100 Days of Python](https://www.udemy.com/share/103IHM3@SeTXqQCa4P90be8WR1nApdyOD559mxDp_o6zM4yYjE94vc_DvcmNTDqVPh9_jpCuLw==/)
 
+[Python Docs](https://docs.python.org/3/contents.html)
+
 The course is taught by the lead instructor at the App Brewery, London's best in-person programming Bootcamp.
 
 The course includes over 65 hours of HD video tutorials and builds your programming knowledge while making real-world Python projects.
