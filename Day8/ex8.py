@@ -1,13 +1,17 @@
-def life_in_weeks(age):
-    weeks_in_a_year = 52
-    target_age = 90
+# Love Calculator
+
+def calculate_love_score(name1, name2):
+    combined_names= (name1 + name2).lower()
     
-    weeks_left = (target_age - age) * weeks_in_a_year
+    true_letters = "true"
+    love_letters = "love"
     
-    print(f"You have {weeks_left} weeks left.")
+    true_count = sum(combined_names.count(letter) for letter in true_letters)
+    love_count = sum(combined_names.count(letter) for letter in love_letters)
     
-life_in_weeks(20)
-life_in_weeks(40)
-life_in_weeks(70)
-life_in_weeks(12)
-life_in_weeks(56)
+    love_score = int(f"{true_count}{love_count}")
+    
+    print(love_score)
+    
+calculate_love_score("Kanye West", "Kim Kardashian")
+
