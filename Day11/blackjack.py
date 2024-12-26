@@ -1,4 +1,4 @@
-#  BlackJack Game#  BlackJack Game
+#  BlackJack Game
 import random
 from art import logo
 
