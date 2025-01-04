@@ -2,13 +2,13 @@
 
 [Udemy - 100 Days of Python](https://www.udemy.com/share/103IHM3@SeTXqQCa4P90be8WR1nApdyOD559mxDp_o6zM4yYjE94vc_DvcmNTDqVPh9_jpCuLw==/)
 
+[Python Package Index](https://pypi.org/)
+
 [Python Docs](https://docs.python.org/3/contents.html)
 
 [Turtle Graphics Docs](https://docs.python.org/3/library/turtle.html)
 
 [Turtle Colors](https://cs111.wellesley.edu/reference/colors)
-
-[Python Package Index](https://pypi.org/)
 
 [PrettyTable Library](https://pypi.org/project/prettytable/)
 
